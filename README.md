@@ -84,7 +84,7 @@ This dashboard aims to answer the following questions:
 ### Total Accidents and Casualties
 - Approximately 60,000 accidents occurred during the year.
 - Around 79,000 casualties were recorded.
-- More than 110,000 vehicles were involved in accidents. :contentReference[oaicite:1]{index=1}
+- More than 110,000 vehicles were involved in accidents. 
 
 ### Accident Severity
 - High Severity: 51.98K (86.63%)
@@ -103,13 +103,13 @@ Most accidents were severe in nature, indicating a significant impact on human l
   - August
   - September
 
-Casualties remained above 5,000 every month, showing a consistently high impact of road accidents throughout the year. :contentReference[oaicite:2]{index=2}
+Casualties remained above 5,000 every month, showing a consistently high impact of road accidents throughout the year. 
 
 ### Day-wise Analysis
 - Friday recorded the highest number of accidents.
 - Sunday recorded the lowest number of accidents.
 
-A possible reason for higher accidents on Fridays could be increased travel activity, weekend outings, and rush-hour traffic. :contentReference[oaicite:3]{index=3}
+A possible reason for higher accidents on Fridays could be increased travel activity, weekend outings, and rush-hour traffic.
 
 ### Road Type Analysis
 - Single Carriageway roads contributed to the majority of accidents.
@@ -117,7 +117,7 @@ A possible reason for higher accidents on Fridays could be increased travel acti
 - Roundabouts and Slip Roads contributed minimally.
 
 ### Speed Analysis
-- The average speed limit across accident locations was approximately 35 km/hr. :contentReference[oaicite:4]{index=4}
+- The average speed limit across accident locations was approximately 35 km/hr.
 
 ---
 
